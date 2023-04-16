@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # quarkus-user
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
@@ -57,4 +56,3 @@ Easily start your Reactive RESTful Web Services
 [Related guide section...](https://quarkus.io/guides/getting-started-reactive#reactive-jax-rs-resources)
 =======
 # -keycloak-admin-quarkus-example
->>>>>>> 027d9ce3b8dfd6cbf5ed38bbeb59ab06406da403
